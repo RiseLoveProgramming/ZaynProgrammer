@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zayn, my instagram name is @zaynprogrammer_
+- 👋 Hi, I’m Zayn, my instagram name is @beeb.beebtech
 - 👀 I’m interested in coding, coding always makes me mood, even when im getting error.
 - 🌱 I’m currently learning C++ now.
 - 💞️ I’m looking to collaborate on studying for compete.
